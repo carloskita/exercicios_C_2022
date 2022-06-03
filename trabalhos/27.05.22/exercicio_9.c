@@ -75,7 +75,7 @@ void finalReport(registeredClients readClients[10], int add){
 
         if(readClients[i].readHeight <= minHeight){
             minHeight = readClients[i].readHeight;
-            minHeightCode = readClients->readCode;
+            minHeightCode = readClients[i].readCode;
         }
 
         if(readClients[i].readWeight >= maxWeight){
