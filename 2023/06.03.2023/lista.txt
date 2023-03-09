@@ -1,0 +1,24 @@
+1. Desenvolva uma função que retorne o cubo de um número
+2. Desenvolva uma função que retorne o dobro de um número
+3. Desenvolva uma função que retorne a média de dois números
+4. Desenvolva uma função que retorne o maior valor entre 2 números
+5. Desenvolva uma função que retorne o a soma entre 3 números
+6. Desenvolva uma função que retorne o último dígito de um número inteiro. Exemplos: 1999 retorna 9, 1234 retorna 4
+7. Desenvolva uma função que retorne a soma dos dígitos de um número inteiro de 4 algarismos. Exemplo 1999 retorna 28
+8. Desenvolva uma função que receba um inteiro de 4 algarismos e retorne o número invertido. Exemplo: 1999 retorna 9991
+
+9. Faça um programa C que retorne o menu:
+    1. Calculo da área de um retângulo
+    2. Calculo da área de um círculo
+    3. Mostra a tabuada de um número (1 até 9)
+    4. FIM
+    Opção _
+    
+Caso o usuário escolha a opção 1 o programa deve solicitar os valores dos lados do retângulo e mostrar o resultado (ÁREA
+DO RETANGULO = LADO1 * LADO2)
+Caso o usuário escolha a opção 2 o programa deve solicitar o valor do raio do círculo e mostrar o resultado (ÁREA DO
+CÍRCULO = PI * RAIO *RAIO)
+Caso o usuário escolha a opção 3 o programa deve solicitar um número e imprimir a tabuada de 1 até 9
+Caso o usuário escolha a opção 4, o programa deve ser encerrado.
+Caso o usuário escolha qualquer outra opção, o programa deve mostrar a mensagem “OPÇÃO INVÁLIDA” e voltar a
+apresentar o menu.
